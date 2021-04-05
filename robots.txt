@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: blog.mhxie.me/sitemap.xml
