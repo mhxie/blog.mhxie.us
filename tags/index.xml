@@ -1,22 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Minghao&#39;s Research Blog</title>
     <link>blog.mhxie.me/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Minghao&#39;s Research Blog</description>
     <image>
       <url>blog.mhxie.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>blog.mhxie.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="blog.mhxie.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="blog.mhxie.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>blog.mhxie.me/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>dpdk</title>
+      <link>blog.mhxie.me/tags/dpdk/</link>
+      <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
       
-      <guid>blog.mhxie.me/tags/first/</guid>
+      <guid>blog.mhxie.me/tags/dpdk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nsdi</title>
+      <link>blog.mhxie.me/tags/nsdi/</link>
+      <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
+      
+      <guid>blog.mhxie.me/tags/nsdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rpc</title>
+      <link>blog.mhxie.me/tags/rpc/</link>
+      <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
+      
+      <guid>blog.mhxie.me/tags/rpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asplos</title>
+      <link>blog.mhxie.me/tags/asplos/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>blog.mhxie.me/tags/asplos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disaggregation</title>
+      <link>blog.mhxie.me/tags/disaggregation/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>blog.mhxie.me/tags/disaggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flash</title>
+      <link>blog.mhxie.me/tags/flash/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>blog.mhxie.me/tags/flash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QoS</title>
+      <link>blog.mhxie.me/tags/qos/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>blog.mhxie.me/tags/qos/</guid>
       <description></description>
     </item>
     

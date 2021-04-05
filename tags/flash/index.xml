@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minghao&#39;s Research Blog</title>
-    <link>blog.mhxie.me/</link>
-    <description>Recent content on Minghao&#39;s Research Blog</description>
+    <title>flash on Minghao&#39;s Research Blog</title>
+    <link>blog.mhxie.me/tags/flash/</link>
+    <description>Recent content in flash on Minghao&#39;s Research Blog</description>
     <image>
       <url>blog.mhxie.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>blog.mhxie.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="blog.mhxie.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>eRPC Review - NSDI &#39;19 </title>
-      <link>blog.mhxie.me/review/erpc_nsdi19/</link>
-      <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
-      
-      <guid>blog.mhxie.me/review/erpc_nsdi19/</guid>
-      <description>BDP(Bandwidth delay product): bandwidth-delay product (BDP&amp;rsquo;s) worth of buffer, where bandwidth is the bottleneck link and delay is the round-trip time (RTT) between sender and destination.
-Optimization more on the sender part?
-Client-driven protocol eRPC is a datacenter remote procedure call (RPC) framework or say library that provides high performance RPC based on either lossy ethernet or lossless fabrics.
-Based on the high speed packet IO framework DPDK, the main design of eRPC lies on the following optimizations:</description>
-    </item>
-    
+    <lastBuildDate>Sun, 02 Dec 2018 07:31:37 +0000</lastBuildDate><atom:link href="blog.mhxie.me/tags/flash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ReFlex Review - ASPLOS &#39;17 </title>
       <link>blog.mhxie.me/review/reflex_asplos17/</link>
@@ -31,8 +19,6 @@ Based on the high speed packet IO framework DPDK, the main design of eRPC lies o
       <guid>blog.mhxie.me/review/reflex_asplos17/</guid>
       <description>The Paper[1] presents a remote-flash-accessing system called ReFlex, which provides comparable performance to accessing local Flash. The authors point out that remote access to hard disks and remote access to Flash using RDMA (Remote Direct Memory Access) are two common ways to offer flexibility and efficiency in a data center. However, they prove these existing approaches are facing two critical problems: the first is how to tradeoff between performance and cost, while the second is how to provide predictable performance without interferences.</description>
     </item>
-    
-    
     
   </channel>
 </rss>

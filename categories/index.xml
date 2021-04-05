@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories on Minghao&#39;s Research Blog</title>
     <link>blog.mhxie.me/categories/</link>
-    <description>Recent content in Categories on </description>
+    <description>Recent content in Categories on Minghao&#39;s Research Blog</description>
     <image>
       <url>blog.mhxie.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>blog.mhxie.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="blog.mhxie.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="blog.mhxie.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>paper-review</title>
+      <link>blog.mhxie.me/categories/paper-review/</link>
+      <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
+      
+      <guid>blog.mhxie.me/categories/paper-review/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
