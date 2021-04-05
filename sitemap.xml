@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blog.mhxie.me/categories/</loc>
+    <loc>https://blog.mhxie.me/categories/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/tags/dpdk/</loc>
+    <loc>https://blog.mhxie.me/tags/dpdk/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/review/erpc_nsdi19/</loc>
+    <loc>https://blog.mhxie.me/review/erpc_nsdi19/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/</loc>
+    <loc>https://blog.mhxie.me/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/tags/nsdi/</loc>
+    <loc>https://blog.mhxie.me/tags/nsdi/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/categories/paper-review/</loc>
+    <loc>https://blog.mhxie.me/categories/paper-review/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/review/</loc>
+    <loc>https://blog.mhxie.me/review/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/tags/rpc/</loc>
+    <loc>https://blog.mhxie.me/tags/rpc/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/tags/</loc>
+    <loc>https://blog.mhxie.me/tags/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/tags/asplos/</loc>
+    <loc>https://blog.mhxie.me/tags/asplos/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/tags/disaggregation/</loc>
+    <loc>https://blog.mhxie.me/tags/disaggregation/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/tags/flash/</loc>
+    <loc>https://blog.mhxie.me/tags/flash/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/tags/qos/</loc>
+    <loc>https://blog.mhxie.me/tags/qos/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/review/reflex_asplos17/</loc>
+    <loc>https://blog.mhxie.me/review/reflex_asplos17/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
-    <loc>blog.mhxie.me/archives/</loc>
+    <loc>https://blog.mhxie.me/archives/</loc>
   </url><url>
-    <loc>blog.mhxie.me/search/</loc>
+    <loc>https://blog.mhxie.me/search/</loc>
   </url>
 </urlset>
