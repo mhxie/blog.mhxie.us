@@ -12,7 +12,7 @@ googleAnalytics: UA-127145531-1
 
 minify:
   disableXML: true
-  # minifyOutput: true
+  minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -48,7 +48,7 @@ params:
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Minghao's Research Blog"
     # icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -81,6 +81,8 @@ params:
       url: "https://twitter.com/minghao_xie"
     - name: email
       url: "mailto:mhxie@ucsc.edu"
+    - name: instagram
+      url: "https://www.instagram.com/mihxie/"
 
   taxonomies:
     category: categories
@@ -107,14 +109,15 @@ params:
 
   # for search
   # https://fusejs.io/api/options.html
-  # fuseOpts:
-  #   isCaseSensitive: false
-  #   shouldSort: true
-  #   location: 0
-  #   distance: 1000
-  #   threshold: 0.4
-  #   minMatchCharLength: 0
-  #   keys: ["title", "permalink", "summary", "content"]
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     # - identifier: home
@@ -135,9 +138,9 @@ menu:
     - name: search
       url: search/
       weight: 25
-    - identifier: myself
+    - identifier: aboutme
       name: about me
-      url: https://users.soe.ucsc.edu/~mhxie/
+      url: /about
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
@@ -148,3 +151,9 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

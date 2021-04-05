@@ -5,7 +5,7 @@ date: 2018-12-02T07:31:37Z
 # aliases: ["/first"]
 tags: ["flash", "QoS", "dpdk", "disaggregation", "asplos"]
 categories: ["paper-review"]
-author: "Me"
+author: "Original"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
@@ -17,16 +17,10 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/mhxie/blog.mhxie.me/blob/main/content"
     Text: "Suggest Changes" # edit text
