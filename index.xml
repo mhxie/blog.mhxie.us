@@ -28,6 +28,15 @@ Based on the high speed packet IO framework DPDK, the main design of eRPC lies o
       <description>The Paper[1] presents a remote-flash-accessing system called ReFlex, which provides comparable performance to accessing local Flash. The authors point out that remote access to hard disks and remote access to Flash using RDMA (Remote Direct Memory Access) are two common ways to offer flexibility and efficiency in a data center. However, they prove these existing approaches are facing two critical problems: the first is how to tradeoff between performance and cost, while the second is how to provide predictable performance without interferences.</description>
     </item>
     
+    <item>
+      <title>About me</title>
+      <link>https://blog.mhxie.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/about/</guid>
+      <description>About</description>
+    </item>
+    
     
     
   </channel>
