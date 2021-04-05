@@ -1,17 +1,18 @@
 ---
-title: "My 1st post"
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
+categories: ["default"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+# description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -27,7 +28,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/mhxie/blog.mhxie.me/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

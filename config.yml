@@ -1,4 +1,5 @@
 baseURL: blog.mhxie.me
+title: Minghao's Research Blog
 languageCode: en-us
 theme: PaperMod
 
@@ -7,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: UA-127145531-1
 
 minify:
   disableXML: true
@@ -47,8 +48,8 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
+    text: "Research Blog"
+    # icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
@@ -76,8 +77,15 @@ params:
       url: "https://www.linkedin.com/in/minghao-xie/"
     - name: github
       url: "https://github.com/mhxie"
+    - name: twitter
+      url: "https://twitter.com/minghao_xie"
     - name: email
       url: "mailto:mhxie@ucsc.edu"
+
+  taxonomies:
+    category: categories
+    tag: tags
+    series: series
 
   analytics:
     google:
@@ -93,7 +101,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/mhxie/blog.mhxie.me/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -109,6 +117,13 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 1
+    - name: archive
+      url: archives
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
@@ -117,6 +132,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - name: search
+      url: search/
+      weight: 25
     - identifier: myself
       name: about me
       url: https://users.soe.ucsc.edu/~mhxie/
