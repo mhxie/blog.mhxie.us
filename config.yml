@@ -1,5 +1,5 @@
 baseURL: "https://blog.mhxie.me/"
-title: Minghao's Research Blog
+title: Minghao's Personal Blog
 languageCode: en-us
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Minghao's Research Blog
+  title: Minghao's Personal Blog
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -48,7 +48,7 @@ params:
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Minghao's Research Blog"
+    text: "Minghao's Personal Blog"
     # icon: /apple-touch-icon.png
     iconHeight: 35
 

@@ -1,0 +1,94 @@
+{{- define "main" }}
+
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
+</script>
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">
+      {{ .Title }}
+      {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[draft]</sup></div>{{- end }}
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+    </div>
+    {{- end }}
+  </header>
+  {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden }}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+  <div class="post-content">
+    {{- partial "anchored_headings.html" .Content -}}
+  </div>
+  <div>
+    <small>Last modified: {{ now.Format "January 2, 2006"}}</small>
+  </div>
+
+  <footer class="post-footer">
+    <!-- {{- if .Params.tags }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms "tags") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }} -->
+    <!-- {{- if (.Param "ShowPostNavLinks") }}
+    {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{- if and (gt (len $pages) 1) (in $pages . ) }}
+    <nav class="paginav">
+      {{- with $pages.Next . }}
+      <a class="prev" href="{{ .Permalink }}">
+        <span class="title">« {{ i18n "prev_page" }}</span>
+        <br>
+        <span>{{- .Name -}}</span>
+      </a>
+      {{- end }}
+      {{- with $pages.Prev . }}
+      <a class="next" href="{{ .Permalink }}">
+        <span class="title">{{ i18n "next_page" }} »</span>
+        <br>
+        <span>{{- .Name -}}</span>
+      </a>
+      {{- end }}
+    </nav>
+    {{- end }}
+    {{- end }} -->
+
+    <div>
+      My recent github contributions:
+    </div>
+    <div class="calendar">
+      Loading Minghao's github contributions
+    </div>
+    <script>
+      GitHubCalendar(".calendar", "mhxie", { responsive: true });
+    </script>
+
+    {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
+    {{- end }}
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}{{/* end main */}}
