@@ -5,7 +5,7 @@ date: {{ .Date }}
 # aliases: ["/first"]
 tags: ["first"]
 categories: ["default"]
-author: "Me"
+author: "Original"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
