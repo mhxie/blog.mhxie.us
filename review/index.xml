@@ -6,7 +6,16 @@
     <description>Recent content in Reviews on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 May 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hoard Review - ASPLOS IX</title>
+      <link>https://blog.mhxie.me/review/hoard/</link>
+      <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/review/hoard/</guid>
+      <description>Summary Hoard is a concurrent memory allocator algorithm that achieves both a performance close to the uniprocessor allocator and a low memory fragmentation rate. False sharing and fragmentation are two showing problems that degrade the performance of concurrent memory allocators. Allocator may actively or passively cause false sharing by splitting a cache line to different processes in turn or by reusing the free pieces. On the other hand, internal and external fragmentation may cause unbounded memory blowup.</description>
+    </item>
+    
     <item>
       <title>eRPC Review - NSDI &#39;19 </title>
       <link>https://blog.mhxie.me/review/erpc_nsdi19/</link>

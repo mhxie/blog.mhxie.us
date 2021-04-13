@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 May 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>concurrency</title>
+      <link>https://blog.mhxie.me/tags/concurrency/</link>
+      <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/concurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIFO</title>
+      <link>https://blog.mhxie.me/tags/lifo/</link>
+      <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/lifo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memory-allocator</title>
+      <link>https://blog.mhxie.me/tags/memory-allocator/</link>
+      <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/memory-allocator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operating-system</title>
+      <link>https://blog.mhxie.me/tags/operating-system/</link>
+      <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/operating-system/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dpdk</title>
       <link>https://blog.mhxie.me/tags/dpdk/</link>

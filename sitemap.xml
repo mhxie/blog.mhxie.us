@@ -3,7 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.mhxie.me/categories/</loc>
-    <lastmod>2019-04-13T07:35:40+00:00</lastmod>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/concurrency/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/review/hoard/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/lifo/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/memory-allocator/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/operating-system/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/categories/paper-review/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/review/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/dpdk/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
@@ -11,22 +38,10 @@
     <loc>https://blog.mhxie.me/review/erpc_nsdi19/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/</loc>
-    <lastmod>2019-04-13T07:35:40+00:00</lastmod>
-  </url><url>
     <loc>https://blog.mhxie.me/tags/nsdi/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/categories/paper-review/</loc>
-    <lastmod>2019-04-13T07:35:40+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/review/</loc>
-    <lastmod>2019-04-13T07:35:40+00:00</lastmod>
-  </url><url>
     <loc>https://blog.mhxie.me/tags/rpc/</loc>
-    <lastmod>2019-04-13T07:35:40+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/tags/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/asplos/</loc>
