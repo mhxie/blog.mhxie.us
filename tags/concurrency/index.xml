@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 22 May 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hoard Review - ASPLOS IX</title>
-      <link>https://blog.mhxie.me/review/hoard/</link>
+      <link>https://blog.mhxie.me/review/hoard_asplosix/</link>
       <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/hoard/</guid>
+      <guid>https://blog.mhxie.me/review/hoard_asplosix/</guid>
       <description>Summary Hoard is a concurrent memory allocator algorithm that achieves both a performance close to the uniprocessor allocator and a low memory fragmentation rate. False sharing and fragmentation are two showing problems that degrade the performance of concurrent memory allocators. Allocator may actively or passively cause false sharing by splitting a cache line to different processes in turn or by reusing the free pieces. On the other hand, internal and external fragmentation may cause unbounded memory blowup.</description>
     </item>
     

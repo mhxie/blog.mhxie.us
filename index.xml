@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 22 May 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hoard Review - ASPLOS IX</title>
-      <link>https://blog.mhxie.me/review/hoard/</link>
+      <link>https://blog.mhxie.me/review/hoard_asplosix/</link>
       <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/hoard/</guid>
+      <guid>https://blog.mhxie.me/review/hoard_asplosix/</guid>
       <description>Summary Hoard is a concurrent memory allocator algorithm that achieves both a performance close to the uniprocessor allocator and a low memory fragmentation rate. False sharing and fragmentation are two showing problems that degrade the performance of concurrent memory allocators. Allocator may actively or passively cause false sharing by splitting a cache line to different processes in turn or by reusing the free pieces. On the other hand, internal and external fragmentation may cause unbounded memory blowup.</description>
     </item>
     
@@ -26,6 +26,15 @@
 Optimization more on the sender part?
 Client-driven protocol eRPC is a datacenter remote procedure call (RPC) framework or say library that provides high performance RPC based on either lossy ethernet or lossless fabrics.
 Based on the high speed packet IO framework DPDK, the main design of eRPC lies on the following optimizations:</description>
+    </item>
+    
+    <item>
+      <title>Crail Review - IEEE Data Eng. Bull. Vol 40</title>
+      <link>https://blog.mhxie.me/review/crail/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/review/crail/</guid>
+      <description>The performance of networking and storage hardware has developed rapidly in recent years. Emerging new interfaces like RDMA and NVMe make user-level hardware access and asynchronous I/O possible, allowing upper applications to take full advantages of these high-performance hardware. However, the authors of Crail (Stuedi, P. et al., 2017) point out that most of the recent applications are too low-brewed and too focused on serving particular workloads to satisfy general task requirement.</description>
     </item>
     
     <item>

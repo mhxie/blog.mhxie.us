@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Dec 2018 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/disaggregation/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Crail Review - IEEE Data Eng. Bull. Vol 40</title>
+      <link>https://blog.mhxie.me/review/crail/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/review/crail/</guid>
+      <description>The performance of networking and storage hardware has developed rapidly in recent years. Emerging new interfaces like RDMA and NVMe make user-level hardware access and asynchronous I/O possible, allowing upper applications to take full advantages of these high-performance hardware. However, the authors of Crail (Stuedi, P. et al., 2017) point out that most of the recent applications are too low-brewed and too focused on serving particular workloads to satisfy general task requirement.</description>
+    </item>
+    
+    <item>
       <title>ReFlex Review - ASPLOS &#39;17 </title>
       <link>https://blog.mhxie.me/review/reflex_asplos17/</link>
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>

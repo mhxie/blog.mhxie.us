@@ -8,7 +8,7 @@
     <loc>https://blog.mhxie.me/tags/concurrency/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/hoard/</loc>
+    <loc>https://blog.mhxie.me/review/hoard_asplosix/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/lifo/</loc>
@@ -47,7 +47,13 @@
     <loc>https://blog.mhxie.me/tags/asplos/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
+    <loc>https://blog.mhxie.me/review/crail/</loc>
+    <lastmod>2018-12-02T07:31:37+00:00</lastmod>
+  </url><url>
     <loc>https://blog.mhxie.me/tags/disaggregation/</loc>
+    <lastmod>2018-12-02T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/file-system/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/flash/</loc>
@@ -56,7 +62,13 @@
     <loc>https://blog.mhxie.me/tags/qos/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
+    <loc>https://blog.mhxie.me/tags/rdma/</loc>
+    <lastmod>2018-12-02T07:31:37+00:00</lastmod>
+  </url><url>
     <loc>https://blog.mhxie.me/review/reflex_asplos17/</loc>
+    <lastmod>2018-12-02T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/userspace/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/about/</loc>
