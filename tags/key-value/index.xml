@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>key-value on Minghao&#39;s Personal Blog</title>
+    <link>https://blog.mhxie.me/tags/key-value/</link>
+    <description>Recent content in key-value on Minghao&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Dec 2018 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/key-value/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LHD Review - NSDI &#39;18</title>
+      <link>https://blog.mhxie.me/review/lhd_nsdi18/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/review/lhd_nsdi18/</guid>
+      <description>Beckmann, N., Chen, H., &amp;amp; Cidon, A. (2018, April). LHD: Improving Cache Hit Rate by Maximizing Hit Density. In 15th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 18). USENIX} Association.
+Least hit density (LHD) [1] is a brand-new cache replacement algorithm designed for key-value caches. An improvement to the cache hit rate of current distributed, in-memory key-value caches has shown more and more importance in demand of latency sensitive applications recently.</description>
+    </item>
+    
+  </channel>
+</rss>

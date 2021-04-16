@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.mhxie.me/tags/asplos/</loc>
+    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
+  </url><url>
     <loc>https://blog.mhxie.me/categories/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/review/hoard_asplosix/</loc>
-    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/tags/lifo/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/memory-allocator/</loc>
@@ -44,7 +44,7 @@
     <loc>https://blog.mhxie.me/tags/rpc/</loc>
     <lastmod>2019-04-13T07:35:40+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/asplos/</loc>
+    <loc>https://blog.mhxie.me/tags/caching/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/review/crail/</loc>
@@ -57,6 +57,12 @@
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/flash/</loc>
+    <lastmod>2018-12-02T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/key-value/</loc>
+    <lastmod>2018-12-02T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/review/lhd_nsdi18/</loc>
     <lastmod>2018-12-02T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/qos/</loc>

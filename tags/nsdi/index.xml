@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nsdi on Minghao&#39;s Personal Blog</title>
+    <title>NSDI on Minghao&#39;s Personal Blog</title>
     <link>https://blog.mhxie.me/tags/nsdi/</link>
-    <description>Recent content in nsdi on Minghao&#39;s Personal Blog</description>
+    <description>Recent content in NSDI on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/nsdi/index.xml" rel="self" type="application/rss+xml" />
@@ -17,6 +17,16 @@
 Optimization more on the sender part?
 Client-driven protocol eRPC is a datacenter remote procedure call (RPC) framework or say library that provides high performance RPC based on either lossy ethernet or lossless fabrics.
 Based on the high speed packet IO framework DPDK, the main design of eRPC lies on the following optimizations:</description>
+    </item>
+    
+    <item>
+      <title>LHD Review - NSDI &#39;18</title>
+      <link>https://blog.mhxie.me/review/lhd_nsdi18/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/review/lhd_nsdi18/</guid>
+      <description>Beckmann, N., Chen, H., &amp;amp; Cidon, A. (2018, April). LHD: Improving Cache Hit Rate by Maximizing Hit Density. In 15th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 18). USENIX} Association.
+Least hit density (LHD) [1] is a brand-new cache replacement algorithm designed for key-value caches. An improvement to the cache hit rate of current distributed, in-memory key-value caches has shown more and more importance in demand of latency sensitive applications recently.</description>
     </item>
     
   </channel>

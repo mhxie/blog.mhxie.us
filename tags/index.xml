@@ -8,20 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ASPLOS</title>
+      <link>https://blog.mhxie.me/tags/asplos/</link>
+      <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/asplos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>concurrency</title>
       <link>https://blog.mhxie.me/tags/concurrency/</link>
       <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
       
       <guid>https://blog.mhxie.me/tags/concurrency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LIFO</title>
-      <link>https://blog.mhxie.me/tags/lifo/</link>
-      <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
-      
-      <guid>https://blog.mhxie.me/tags/lifo/</guid>
       <description></description>
     </item>
     
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>nsdi</title>
+      <title>NSDI</title>
       <link>https://blog.mhxie.me/tags/nsdi/</link>
       <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
       
@@ -71,11 +71,11 @@
     </item>
     
     <item>
-      <title>asplos</title>
-      <link>https://blog.mhxie.me/tags/asplos/</link>
+      <title>caching</title>
+      <link>https://blog.mhxie.me/tags/caching/</link>
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/tags/asplos/</guid>
+      <guid>https://blog.mhxie.me/tags/caching/</guid>
       <description></description>
     </item>
     
@@ -103,6 +103,15 @@
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
       
       <guid>https://blog.mhxie.me/tags/flash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>key-value</title>
+      <link>https://blog.mhxie.me/tags/key-value/</link>
+      <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/key-value/</guid>
       <description></description>
     </item>
     
