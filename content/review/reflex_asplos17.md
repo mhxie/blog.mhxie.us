@@ -3,7 +3,7 @@ title: "ReFlex Review - ASPLOS '17 "
 date: 2018-12-02T07:31:37Z
 # weight: 1
 # aliases: ["/first"]
-tags: ["flash", "QoS", "dpdk", "disaggregation", "asplos"]
+tags: ["flash", "QoS", "dpdk", "disaggregation", "ASPLOS"]
 categories: ["paper-review"]
 author: "Original"
 # author: ["Me", "You"] # multiple authors

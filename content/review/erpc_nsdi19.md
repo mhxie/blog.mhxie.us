@@ -3,7 +3,7 @@ title: "eRPC Review - NSDI '19 "
 date: 2019-04-13T07:35:40Z
 # weight: 1
 # aliases: ["/first"]
-tags: ["rpc", "dpdk", "nsdi"]
+tags: ["rpc", "dpdk", "NSDI"]
 categories: ["paper-review"]
 author: "Original"
 # author: ["Me", "You"] # multiple authors

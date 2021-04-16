@@ -3,7 +3,7 @@ title: "Hoard Review - ASPLOS IX"
 date: 2019-05-22T07:31:37Z
 # weight: 1
 # aliases: ["/first"]
-tags: ["memory-allocator", "operating-system", "concurrency", "LIFO"]
+tags: ["memory-allocator", "operating-system", "concurrency", "ASPLOS"]
 categories: ["paper-review"]
 author: "Original"
 # author: ["Me", "You"] # multiple authors
