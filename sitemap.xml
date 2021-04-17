@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.mhxie.me/tags/asplos/</loc>
-    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
-  </url><url>
     <loc>https://blog.mhxie.me/categories/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/cloud/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/pacing/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/categories/paper-review/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/review/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/sigcomm/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/review/silo_sigcomm15/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/slo/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/tail-latency/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/vm/</loc>
+    <lastmod>2021-04-16T23:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/asplos/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/concurrency/</loc>
@@ -17,19 +50,7 @@
     <loc>https://blog.mhxie.me/tags/memory-allocator/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/</loc>
-    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
-  </url><url>
     <loc>https://blog.mhxie.me/tags/operating-system/</loc>
-    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/categories/paper-review/</loc>
-    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/review/</loc>
-    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/tags/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/dpdk/</loc>
