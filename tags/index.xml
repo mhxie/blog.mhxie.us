@@ -62,6 +62,42 @@
     </item>
     
     <item>
+      <title>IPC</title>
+      <link>https://blog.mhxie.me/tags/ipc/</link>
+      <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/ipc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kernel</title>
+      <link>https://blog.mhxie.me/tags/kernel/</link>
+      <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-processor</title>
+      <link>https://blog.mhxie.me/tags/multi-processor/</link>
+      <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/multi-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operating-system</title>
+      <link>https://blog.mhxie.me/tags/operating-system/</link>
+      <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/operating-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASPLOS</title>
       <link>https://blog.mhxie.me/tags/asplos/</link>
       <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
@@ -85,15 +121,6 @@
       <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
       
       <guid>https://blog.mhxie.me/tags/memory-allocator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>operating-system</title>
-      <link>https://blog.mhxie.me/tags/operating-system/</link>
-      <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
-      
-      <guid>https://blog.mhxie.me/tags/operating-system/</guid>
       <description></description>
     </item>
     

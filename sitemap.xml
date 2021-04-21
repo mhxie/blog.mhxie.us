@@ -38,6 +38,21 @@
     <loc>https://blog.mhxie.me/tags/vm/</loc>
     <lastmod>2021-04-16T23:07:37+00:00</lastmod>
   </url><url>
+    <loc>https://blog.mhxie.me/tags/ipc/</loc>
+    <lastmod>2020-01-13T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/kernel/</loc>
+    <lastmod>2020-01-13T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/review/mach/</loc>
+    <lastmod>2020-01-13T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/multi-processor/</loc>
+    <lastmod>2020-01-13T07:31:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mhxie.me/tags/operating-system/</loc>
+    <lastmod>2020-01-13T07:31:37+00:00</lastmod>
+  </url><url>
     <loc>https://blog.mhxie.me/tags/asplos/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
@@ -48,9 +63,6 @@
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/memory-allocator/</loc>
-    <lastmod>2019-05-22T07:31:37+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/tags/operating-system/</loc>
     <lastmod>2019-05-22T07:31:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.mhxie.me/tags/dpdk/</loc>
