@@ -35,7 +35,8 @@ editPost:
 
 ### Summary
 
-This paper [1] presents Silo, a system that can gurantee both latency and throughput service level objectives (SLOs) in multi-tenant data centers.
+This paper [1] presents Silo, a system that can gurantee both latency and
+throughput service level objectives (SLOs) in multi-tenant data centers.
 
 ### Design Goals
 
@@ -46,24 +47,26 @@ This paper [1] presents Silo, a system that can gurantee both latency and throug
 ### Challenges
 
 1. > delay is an additive end-to-end property
-2. queueing delay is the marjor factor along the critical path and it is hard to precisely enforce indepedent flows on all networking knobs
-3. >  guaranteed packet delay is at odds with the guaranteed burst requirement
+2. queueing delay is the marjor factor along the critical path and it is hard to
+   precisely enforce indepedent flows on all networking knobs
+3. > guaranteed packet delay is at odds with the guaranteed burst requirement
 
 <!-- ### Problem Statement -->
 
 ### Novelty
 
-* network-calculus-based VM placement: 
-* hypervisor-based policing: use "void" packets to be batched with actual packets that allows pacer to space out actual data packets without hardware supports 
-
+- network-calculus-based VM placement:
+- hypervisor-based policing: use "void" packets to be batched with actual
+  packets that allows pacer to space out actual data packets without hardware
+  supports
 
 ### Advantages
 
-* no need to change the underlyng hardware infrastructures;
+- no need to change the underlyng hardware infrastructures;
 
 ### Disadvantages
 
-* worst-case assumption decreases the server utilizations in non-bursty scenario;
+- worst-case assumption decreases the server utilizations in non-bursty scenario;
 
 ### Reference
 
