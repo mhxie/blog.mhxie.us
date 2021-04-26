@@ -19,6 +19,15 @@ Design Goals  guaranteed bandwidth; guaranteed packet delay; guaranteed burst al
     </item>
     
     <item>
+      <title>lwC Review- OSDI &#39;16</title>
+      <link>https://blog.mhxie.me/review/lwc_osdi16/</link>
+      <pubDate>Fri, 17 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/review/lwc_osdi16/</guid>
+      <description>Summary This paper introduces the new user-level thread implementation called light-weight context (lwC). They utilized the vmspace structure in FreeBSD to create separate memory spaces for new lwC entities. They further reduced the TLB flush overhead by cleverly enabling the &amp;ldquo;process context identifier&amp;rdquo; (PCID). To provide fine-grained resource sharing across lwC entities, parent lwC would assign access capabilities to child lwC by giving file descriptor that specify the range and rights of sharing resources.</description>
+    </item>
+    
+    <item>
       <title>Mach Review</title>
       <link>https://blog.mhxie.me/review/mach/</link>
       <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
