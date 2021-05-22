@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOSP on Minghao&#39;s Personal Blog</title>
+    <link>https://blog.mhxie.me/tags/sosp/</link>
+    <description>Recent content in SOSP on Minghao&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2020 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/sosp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barrelfish Review - SOSP &#39;09</title>
+      <link>https://blog.mhxie.me/review/barrelfish_sosp09/</link>
+      <pubDate>Wed, 15 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/review/barrelfish_sosp09/</guid>
+      <description>Summary This paper presents a multi-kernel OS called Barrelfish for multicore hardware. The authors argued that current OS design and hardware-specific optimization could not exploit heteronomous cores nor suit the diverse, interconnected topology, and messages cost less than shared memory with the development of distributed or event-driven systems.
+They designed the architecture of Barrelfish structured like a distributed system. It enforced explicit inter-core communication patterns to exploit the high-level knowledge to achieve more efficient cache-line updates.</description>
+    </item>
+    
+  </channel>
+</rss>

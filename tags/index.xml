@@ -98,6 +98,42 @@
     </item>
     
     <item>
+      <title>distributed-system</title>
+      <link>https://blog.mhxie.me/tags/distributed-system/</link>
+      <pubDate>Wed, 15 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/distributed-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kernel</title>
+      <link>https://blog.mhxie.me/tags/kernel/</link>
+      <pubDate>Wed, 15 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operating-system</title>
+      <link>https://blog.mhxie.me/tags/operating-system/</link>
+      <pubDate>Wed, 15 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/operating-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOSP</title>
+      <link>https://blog.mhxie.me/tags/sosp/</link>
+      <pubDate>Wed, 15 Jan 2020 07:31:37 +0000</pubDate>
+      
+      <guid>https://blog.mhxie.me/tags/sosp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IPC</title>
       <link>https://blog.mhxie.me/tags/ipc/</link>
       <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
@@ -107,29 +143,11 @@
     </item>
     
     <item>
-      <title>kernel</title>
-      <link>https://blog.mhxie.me/tags/kernel/</link>
-      <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
-      
-      <guid>https://blog.mhxie.me/tags/kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>multi-processor</title>
       <link>https://blog.mhxie.me/tags/multi-processor/</link>
       <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
       
       <guid>https://blog.mhxie.me/tags/multi-processor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>operating-system</title>
-      <link>https://blog.mhxie.me/tags/operating-system/</link>
-      <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
-      
-      <guid>https://blog.mhxie.me/tags/operating-system/</guid>
       <description></description>
     </item>
     
