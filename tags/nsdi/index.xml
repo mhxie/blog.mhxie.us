@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NSDI on Minghao&#39;s Personal Blog</title>
-    <link>https://blog.mhxie.me/tags/nsdi/</link>
+    <link>https://blog.mhxie.us/tags/nsdi/</link>
     <description>Recent content in NSDI on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/nsdi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="https://blog.mhxie.us/tags/nsdi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eRPC Review - NSDI &#39;19 </title>
-      <link>https://blog.mhxie.me/review/erpc_nsdi19/</link>
+      <link>https://blog.mhxie.us/review/erpc_nsdi19/</link>
       <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/erpc_nsdi19/</guid>
+      <guid>https://blog.mhxie.us/review/erpc_nsdi19/</guid>
       <description>BDP(Bandwidth delay product): bandwidth-delay product (BDP&amp;rsquo;s) worth of buffer, where bandwidth is the bottleneck link and delay is the round-trip time (RTT) between sender and destination.
 Optimization more on the sender part?
 Client-driven protocol eRPC is a datacenter remote procedure call (RPC) framework or say library that provides high performance RPC based on either lossy ethernet or lossless fabrics.
@@ -21,10 +21,10 @@ Based on the high speed packet IO framework DPDK, the main design of eRPC lies o
     
     <item>
       <title>LHD Review - NSDI &#39;18</title>
-      <link>https://blog.mhxie.me/review/lhd_nsdi18/</link>
+      <link>https://blog.mhxie.us/review/lhd_nsdi18/</link>
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/lhd_nsdi18/</guid>
+      <guid>https://blog.mhxie.us/review/lhd_nsdi18/</guid>
       <description>Beckmann, N., Chen, H., &amp;amp; Cidon, A. (2018, April). LHD: Improving Cache Hit Rate by Maximizing Hit Density. In 15th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 18). USENIX} Association.
 Least hit density (LHD) [1] is a brand-new cache replacement algorithm designed for key-value caches. An improvement to the cache hit rate of current distributed, in-memory key-value caches has shown more and more importance in demand of latency sensitive applications recently.</description>
     </item>

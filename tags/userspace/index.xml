@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>userspace on Minghao&#39;s Personal Blog</title>
-    <link>https://blog.mhxie.me/tags/userspace/</link>
+    <link>https://blog.mhxie.us/tags/userspace/</link>
     <description>Recent content in userspace on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2020 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/userspace/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jan 2020 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.us/tags/userspace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>lwC Review- OSDI &#39;16</title>
-      <link>https://blog.mhxie.me/review/lwc_osdi16/</link>
+      <link>https://blog.mhxie.us/review/lwc_osdi16/</link>
       <pubDate>Fri, 17 Jan 2020 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/lwc_osdi16/</guid>
+      <guid>https://blog.mhxie.us/review/lwc_osdi16/</guid>
       <description>Summary This paper introduces the new user-level thread implementation called light-weight context (lwC). They utilized the vmspace structure in FreeBSD to create separate memory spaces for new lwC entities. They further reduced the TLB flush overhead by cleverly enabling the &amp;ldquo;process context identifier&amp;rdquo; (PCID). To provide fine-grained resource sharing across lwC entities, parent lwC would assign access capabilities to child lwC by giving file descriptor that specify the range and rights of sharing resources.</description>
     </item>
     
     <item>
       <title>Crail Review - IEEE Data Eng. Bull. Vol 40</title>
-      <link>https://blog.mhxie.me/review/crail/</link>
+      <link>https://blog.mhxie.us/review/crail/</link>
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/crail/</guid>
+      <guid>https://blog.mhxie.us/review/crail/</guid>
       <description>The performance of networking and storage hardware has developed rapidly in recent years. Emerging new interfaces like RDMA and NVMe make user-level hardware access and asynchronous I/O possible, allowing upper applications to take full advantages of these high-performance hardware. However, the authors of Crail (Stuedi, P. et al., 2017) point out that most of the recent applications are too low-brewed and too focused on serving particular workloads to satisfy general task requirement.</description>
     </item>
     

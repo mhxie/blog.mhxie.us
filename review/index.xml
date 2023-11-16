@@ -1,66 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reviews on Minghao&#39;s Personal Blog</title>
-    <link>https://blog.mhxie.me/review/</link>
+    <link>https://blog.mhxie.us/review/</link>
     <description>Recent content in Reviews on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Apr 2021 23:07:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/review/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Silo Review - SIGCOMM &#39;15</title>
-      <link>https://blog.mhxie.me/review/silo_sigcomm15/</link>
-      <pubDate>Fri, 16 Apr 2021 23:07:37 +0000</pubDate>
-      
-      <guid>https://blog.mhxie.me/review/silo_sigcomm15/</guid>
-      <description>Summary This paper [1] presents Silo, a system that can gurantee both latency and throughput service level objectives (SLOs) in multi-tenant data centers.
-Design Goals  guaranteed bandwidth; guaranteed packet delay; guaranteed burst allowance;  Challenges    delay is an additive end-to-end property
-  queueing delay is the marjor factor along the critical path and it is hard to precisely enforce indepedent flows on all networking knobs   guaranteed packet delay is at odds with the guaranteed burst requirement</description>
-    </item>
-    
+    <lastBuildDate>Fri, 17 Jan 2020 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.us/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>lwC Review- OSDI &#39;16</title>
-      <link>https://blog.mhxie.me/review/lwc_osdi16/</link>
+      <link>https://blog.mhxie.us/review/lwc_osdi16/</link>
       <pubDate>Fri, 17 Jan 2020 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/lwc_osdi16/</guid>
+      <guid>https://blog.mhxie.us/review/lwc_osdi16/</guid>
       <description>Summary This paper introduces the new user-level thread implementation called light-weight context (lwC). They utilized the vmspace structure in FreeBSD to create separate memory spaces for new lwC entities. They further reduced the TLB flush overhead by cleverly enabling the &amp;ldquo;process context identifier&amp;rdquo; (PCID). To provide fine-grained resource sharing across lwC entities, parent lwC would assign access capabilities to child lwC by giving file descriptor that specify the range and rights of sharing resources.</description>
     </item>
     
     <item>
       <title>Barrelfish Review - SOSP &#39;09</title>
-      <link>https://blog.mhxie.me/review/barrelfish_sosp09/</link>
+      <link>https://blog.mhxie.us/review/barrelfish_sosp09/</link>
       <pubDate>Wed, 15 Jan 2020 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/barrelfish_sosp09/</guid>
+      <guid>https://blog.mhxie.us/review/barrelfish_sosp09/</guid>
       <description>Summary This paper presents a multi-kernel OS called Barrelfish for multicore hardware. The authors argued that current OS design and hardware-specific optimization could not exploit heteronomous cores nor suit the diverse, interconnected topology, and messages cost less than shared memory with the development of distributed or event-driven systems.
 They designed the architecture of Barrelfish structured like a distributed system. It enforced explicit inter-core communication patterns to exploit the high-level knowledge to achieve more efficient cache-line updates.</description>
     </item>
     
     <item>
       <title>Mach Review</title>
-      <link>https://blog.mhxie.me/review/mach/</link>
+      <link>https://blog.mhxie.us/review/mach/</link>
       <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/mach/</guid>
+      <guid>https://blog.mhxie.us/review/mach/</guid>
       <description>Summary Mach is a new kernel design based on UNIX that supports multi-processors by using inter-process communications (IPC). Mach presents several new primitive abstractions including task, thread, port, and message. Task could be a multi-threaded execution environments that contains all the resources including the virtual memory spaces and protected access to ports, while threads are the smallest computation. What&amp;rsquo;s more, Mach manages virtual memory with copy-on-write and read/write sharing ability. It splits the machine-dependent and independent sections by using data structures like address maps, share maps, VM objects and page structures.</description>
     </item>
     
     <item>
       <title>Hoard Review - ASPLOS IX</title>
-      <link>https://blog.mhxie.me/review/hoard_asplosix/</link>
+      <link>https://blog.mhxie.us/review/hoard_asplosix/</link>
       <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/hoard_asplosix/</guid>
+      <guid>https://blog.mhxie.us/review/hoard_asplosix/</guid>
       <description>Summary Hoard is a concurrent memory allocator algorithm that achieves both a performance close to the uniprocessor allocator and a low memory fragmentation rate. False sharing and fragmentation are two showing problems that degrade the performance of concurrent memory allocators. Allocator may actively or passively cause false sharing by splitting a cache line to different processes in turn or by reusing the free pieces. On the other hand, internal and external fragmentation may cause unbounded memory blowup.</description>
     </item>
     
     <item>
       <title>eRPC Review - NSDI &#39;19 </title>
-      <link>https://blog.mhxie.me/review/erpc_nsdi19/</link>
+      <link>https://blog.mhxie.us/review/erpc_nsdi19/</link>
       <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/erpc_nsdi19/</guid>
+      <guid>https://blog.mhxie.us/review/erpc_nsdi19/</guid>
       <description>BDP(Bandwidth delay product): bandwidth-delay product (BDP&amp;rsquo;s) worth of buffer, where bandwidth is the bottleneck link and delay is the round-trip time (RTT) between sender and destination.
 Optimization more on the sender part?
 Client-driven protocol eRPC is a datacenter remote procedure call (RPC) framework or say library that provides high performance RPC based on either lossy ethernet or lossless fabrics.
@@ -69,39 +58,39 @@ Based on the high speed packet IO framework DPDK, the main design of eRPC lies o
     
     <item>
       <title>Review for Digital Signature for Flows and Multicasts - ToN&#39;99</title>
-      <link>https://blog.mhxie.me/review/signature_ton99/</link>
+      <link>https://blog.mhxie.us/review/signature_ton99/</link>
       <pubDate>Tue, 22 Jan 2019 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/signature_ton99/</guid>
+      <guid>https://blog.mhxie.us/review/signature_ton99/</guid>
       <description>Digital Signature for Flows and Multicasts [1]
 Data signing and verifying is a pretty time-consuming operation pair. This problem becomes severe when applying it to the encryption of network data flows. A standard solution to leasing such laborious work is to use the digest of flows which contains several or hundreds of packets in a row. However, the intrinsics of best-effort delivery in current Internet make this solution impractical. It is even more challenging to get almost in-order and entire sequences of packets of a multicast flow.</description>
     </item>
     
     <item>
       <title>Crail Review - IEEE Data Eng. Bull. Vol 40</title>
-      <link>https://blog.mhxie.me/review/crail/</link>
+      <link>https://blog.mhxie.us/review/crail/</link>
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/crail/</guid>
+      <guid>https://blog.mhxie.us/review/crail/</guid>
       <description>The performance of networking and storage hardware has developed rapidly in recent years. Emerging new interfaces like RDMA and NVMe make user-level hardware access and asynchronous I/O possible, allowing upper applications to take full advantages of these high-performance hardware. However, the authors of Crail (Stuedi, P. et al., 2017) point out that most of the recent applications are too low-brewed and too focused on serving particular workloads to satisfy general task requirement.</description>
     </item>
     
     <item>
       <title>LHD Review - NSDI &#39;18</title>
-      <link>https://blog.mhxie.me/review/lhd_nsdi18/</link>
+      <link>https://blog.mhxie.us/review/lhd_nsdi18/</link>
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/lhd_nsdi18/</guid>
+      <guid>https://blog.mhxie.us/review/lhd_nsdi18/</guid>
       <description>Beckmann, N., Chen, H., &amp;amp; Cidon, A. (2018, April). LHD: Improving Cache Hit Rate by Maximizing Hit Density. In 15th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 18). USENIX} Association.
 Least hit density (LHD) [1] is a brand-new cache replacement algorithm designed for key-value caches. An improvement to the cache hit rate of current distributed, in-memory key-value caches has shown more and more importance in demand of latency sensitive applications recently.</description>
     </item>
     
     <item>
       <title>ReFlex Review - ASPLOS &#39;17 </title>
-      <link>https://blog.mhxie.me/review/reflex_asplos17/</link>
+      <link>https://blog.mhxie.us/review/reflex_asplos17/</link>
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/reflex_asplos17/</guid>
+      <guid>https://blog.mhxie.us/review/reflex_asplos17/</guid>
       <description>The Paper[1] presents a remote-flash-accessing system called ReFlex, which provides comparable performance to accessing local Flash. The authors point out that remote access to hard disks and remote access to Flash using RDMA (Remote Direct Memory Access) are two common ways to offer flexibility and efficiency in a data center. However, they prove these existing approaches are facing two critical problems: the first is how to tradeoff between performance and cost, while the second is how to provide predictable performance without interferences.</description>
     </item>
     

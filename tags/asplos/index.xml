@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ASPLOS on Minghao&#39;s Personal Blog</title>
-    <link>https://blog.mhxie.me/tags/asplos/</link>
+    <link>https://blog.mhxie.us/tags/asplos/</link>
     <description>Recent content in ASPLOS on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/asplos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 May 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.us/tags/asplos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hoard Review - ASPLOS IX</title>
-      <link>https://blog.mhxie.me/review/hoard_asplosix/</link>
+      <link>https://blog.mhxie.us/review/hoard_asplosix/</link>
       <pubDate>Wed, 22 May 2019 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/hoard_asplosix/</guid>
+      <guid>https://blog.mhxie.us/review/hoard_asplosix/</guid>
       <description>Summary Hoard is a concurrent memory allocator algorithm that achieves both a performance close to the uniprocessor allocator and a low memory fragmentation rate. False sharing and fragmentation are two showing problems that degrade the performance of concurrent memory allocators. Allocator may actively or passively cause false sharing by splitting a cache line to different processes in turn or by reusing the free pieces. On the other hand, internal and external fragmentation may cause unbounded memory blowup.</description>
     </item>
     
     <item>
       <title>ReFlex Review - ASPLOS &#39;17 </title>
-      <link>https://blog.mhxie.me/review/reflex_asplos17/</link>
+      <link>https://blog.mhxie.us/review/reflex_asplos17/</link>
       <pubDate>Sun, 02 Dec 2018 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/reflex_asplos17/</guid>
+      <guid>https://blog.mhxie.us/review/reflex_asplos17/</guid>
       <description>The Paper[1] presents a remote-flash-accessing system called ReFlex, which provides comparable performance to accessing local Flash. The authors point out that remote access to hard disks and remote access to Flash using RDMA (Remote Direct Memory Access) are two common ways to offer flexibility and efficiency in a data center. However, they prove these existing approaches are facing two critical problems: the first is how to tradeoff between performance and cost, while the second is how to provide predictable performance without interferences.</description>
     </item>
     

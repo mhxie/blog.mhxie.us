@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>verification on Minghao&#39;s Personal Blog</title>
-    <link>https://blog.mhxie.me/tags/verification/</link>
+    <link>https://blog.mhxie.us/tags/verification/</link>
     <description>Recent content in verification on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jan 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/verification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jan 2019 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.us/tags/verification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review for Digital Signature for Flows and Multicasts - ToN&#39;99</title>
-      <link>https://blog.mhxie.me/review/signature_ton99/</link>
+      <link>https://blog.mhxie.us/review/signature_ton99/</link>
       <pubDate>Tue, 22 Jan 2019 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/signature_ton99/</guid>
+      <guid>https://blog.mhxie.us/review/signature_ton99/</guid>
       <description>Digital Signature for Flows and Multicasts [1]
 Data signing and verifying is a pretty time-consuming operation pair. This problem becomes severe when applying it to the encryption of network data flows. A standard solution to leasing such laborious work is to use the digest of flows which contains several or hundreds of packets in a row. However, the intrinsics of best-effort delivery in current Internet make this solution impractical. It is even more challenging to get almost in-order and entire sequences of packets of a multicast flow.</description>
     </item>

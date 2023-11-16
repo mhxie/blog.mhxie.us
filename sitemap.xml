@@ -2,157 +2,136 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.mhxie.me/categories/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/categories/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/cloud/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/isolation/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/lwc_osdi16/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/pacing/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/categories/paper-review/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/osdi/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/categories/paper-review/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/sigcomm/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/silo_sigcomm15/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/slo/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/threading/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/userspace/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/tail-latency/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/barrelfish_sosp09/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/vm/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/distributed-system/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/isolation/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/kernel/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/lwc_osdi16/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/operating-system/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/osdi/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/sosp/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/threading/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/ipc/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/userspace/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/mach/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/barrelfish_sosp09/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/multi-processor/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/distributed-system/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/asplos/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/kernel/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/concurrency/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/operating-system/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/hoard_asplosix/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/sosp/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/memory-allocator/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/ipc/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/dpdk/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/mach/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/erpc_nsdi19/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/multi-processor/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/nsdi/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/asplos/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/rpc/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/concurrency/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/multicast/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/hoard_asplosix/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/signature_ton99/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/memory-allocator/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/signature/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/dpdk/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/ton/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/erpc_nsdi19/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/verification/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/nsdi/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/caching/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/rpc/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/crail/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/multicast/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/disaggregation/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/signature_ton99/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/file-system/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/signature/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/flash/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/ton/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/key-value/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/verification/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/lhd_nsdi18/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/caching/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/qos/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/review/crail/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/tags/rdma/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/disaggregation/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/review/reflex_asplos17/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/file-system/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/about/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/flash/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/archives/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mhxie.me/tags/key-value/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/review/lhd_nsdi18/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/tags/qos/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/tags/rdma/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/review/reflex_asplos17/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/about/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/archives/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
-  </url><url>
-    <loc>https://blog.mhxie.me/search/</loc>
-    <lastmod>2021-05-21T23:43:05-07:00</lastmod>
+    <loc>https://blog.mhxie.us/search/</loc>
+    <lastmod>2023-11-16T00:33:05+00:00</lastmod>
   </url>
 </urlset>

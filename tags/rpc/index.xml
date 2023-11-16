@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>rpc on Minghao&#39;s Personal Blog</title>
-    <link>https://blog.mhxie.me/tags/rpc/</link>
+    <link>https://blog.mhxie.us/tags/rpc/</link>
     <description>Recent content in rpc on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/rpc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2019 07:35:40 +0000</lastBuildDate><atom:link href="https://blog.mhxie.us/tags/rpc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eRPC Review - NSDI &#39;19 </title>
-      <link>https://blog.mhxie.me/review/erpc_nsdi19/</link>
+      <link>https://blog.mhxie.us/review/erpc_nsdi19/</link>
       <pubDate>Sat, 13 Apr 2019 07:35:40 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/erpc_nsdi19/</guid>
+      <guid>https://blog.mhxie.us/review/erpc_nsdi19/</guid>
       <description>BDP(Bandwidth delay product): bandwidth-delay product (BDP&amp;rsquo;s) worth of buffer, where bandwidth is the bottleneck link and delay is the round-trip time (RTT) between sender and destination.
 Optimization more on the sender part?
 Client-driven protocol eRPC is a datacenter remote procedure call (RPC) framework or say library that provides high performance RPC based on either lossy ethernet or lossless fabrics.

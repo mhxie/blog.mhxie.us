@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IPC on Minghao&#39;s Personal Blog</title>
-    <link>https://blog.mhxie.me/tags/ipc/</link>
+    <link>https://blog.mhxie.us/tags/ipc/</link>
     <description>Recent content in IPC on Minghao&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2020 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.me/tags/ipc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jan 2020 07:31:37 +0000</lastBuildDate><atom:link href="https://blog.mhxie.us/tags/ipc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mach Review</title>
-      <link>https://blog.mhxie.me/review/mach/</link>
+      <link>https://blog.mhxie.us/review/mach/</link>
       <pubDate>Mon, 13 Jan 2020 07:31:37 +0000</pubDate>
       
-      <guid>https://blog.mhxie.me/review/mach/</guid>
+      <guid>https://blog.mhxie.us/review/mach/</guid>
       <description>Summary Mach is a new kernel design based on UNIX that supports multi-processors by using inter-process communications (IPC). Mach presents several new primitive abstractions including task, thread, port, and message. Task could be a multi-threaded execution environments that contains all the resources including the virtual memory spaces and protected access to ports, while threads are the smallest computation. What&amp;rsquo;s more, Mach manages virtual memory with copy-on-write and read/write sharing ability. It splits the machine-dependent and independent sections by using data structures like address maps, share maps, VM objects and page structures.</description>
     </item>
     
